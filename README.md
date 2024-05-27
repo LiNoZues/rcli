@@ -11,4 +11,5 @@
 # 4、it works. -->
 
 
-# git commit -a fmt 报错解决
+<!-- # git commit -a fmt 报错解决
+# cargo fmt  执行一次格式化即可 -->
